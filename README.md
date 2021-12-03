@@ -6,6 +6,6 @@
 
 ## Installation
 
-- Once you downloaded the zip from the release section, extract the zip and add the script to path.
+- Download the script from the release page and add the script to path.
 - sudo mv fetchy /bin/
 - Your done! 
